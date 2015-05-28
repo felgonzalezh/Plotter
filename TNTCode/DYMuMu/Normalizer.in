@@ -1,0 +1,28 @@
+rootfile analysis.root 
+directory GenTauNmin 
+process GenTauNmin 
+scaleFactor 1.0 
+scaleFactorError 0.0 
+effectiveXsection 1.0 
+
+rootfile analysis.root 
+directory RecoMuon1Nmin 
+process RecoMuon1Nmin 
+scaleFactor 1.0 
+scaleFactorError 0.0 
+effectiveXsection 1.0 
+
+rootfile analysis.root 
+directory RecoMuon2Nmin 
+process RecoMuon2Nmin 
+scaleFactor 1.0 
+scaleFactorError 0.0 
+effectiveXsection 1.0 
+
+luminosity 5929.3 
+skimmingEff 1.0 
+IsData 0 
+outputPostscriptFile DYMuMu.ps 
+outputRootFileForNormalizedHistos DYMuMu_NormalizedHistos.root 
+outputRootFileForProbabilityHistos DYMuMu_ProbabilityHistos.root 
+outputLogFile DYMuMu.log 
