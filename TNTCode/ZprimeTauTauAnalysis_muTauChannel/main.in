@@ -1,0 +1,17 @@
+directory Data/QCDCRandWCR_IsolatedTau 
+directory WW/QCDCRandWCR_IsolatedTau 
+directory WZ/QCDCRandWCR_IsolatedTau 
+directory ZZ/QCDCRandWCR_IsolatedTau 
+directory DYJetsToLL_M-5to50/QCDCRandWCR_IsolatedTau 
+directory DYJetsToLL_M-50_HT-0to100/QCDCRandWCR_IsolatedTau 
+directory DYJetsToLL_M-50_HT-100to200/QCDCRandWCR_IsolatedTau 
+directory DYJetsToLL_M-50_HT-200to400/QCDCRandWCR_IsolatedTau 
+directory DYJetsToLL_M-50_HT-400to600/QCDCRandWCR_IsolatedTau 
+directory DYJetsToLL_M-50_HT-600toInf/QCDCRandWCR_IsolatedTau 
+directory WJetsToLNu_HT-0to100/QCDCRandWCR_IsolatedTau 
+directory WJetsToLNu_HT-100to200/QCDCRandWCR_IsolatedTau 
+directory WJetsToLNu_HT-200to400/QCDCRandWCR_IsolatedTau 
+directory WJetsToLNu_HT-400to600/QCDCRandWCR_IsolatedTau 
+directory WJetsToLNu_HT-600toInf/QCDCRandWCR_IsolatedTau 
+directory TTJets/QCDCRandWCR_IsolatedTau 
+directory QCD_Pt-20toInf_MuEnrichedPt15/QCDCRandWCR_IsolatedTau 
