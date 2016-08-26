@@ -6,17 +6,17 @@ printf "\n"
 
 read dirname
 
-#for y in `ls -d */`
-#do
+for y in `ls -d */`
+do
 
-#  new_file=`echo $y | sed 's!/!!'`
-#  cd ${new_file}
-#  mkdir $dirname
-#  cp default/* $dirname
-#  cd ./..
-#  cp BSM3GNormalizer ${new_file}/$dirname
+  new_file=`echo $y | sed 's!/!!'`
+  cd ${new_file}
+  mkdir $dirname
+  cp default/* $dirname
+  cd ./..
+  cp BSM3GNormalizer ${new_file}/$dirname
 
-#done
+done
 
 rm moveRootFilesToDirectories.csh
 cp moveRootFilesToDirectories_default.csh moveRootFilesToDirectories.csh
